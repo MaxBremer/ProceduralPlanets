@@ -21,10 +21,10 @@ MonoBehaviour:
       simpleNoiseSettings:
         strength: 0.05
         numLayers: 3
-        baseRoughness: 1.07
+        baseRoughness: 2.38
         roughness: 2.2
-        persistance: 0.5
-        center: {x: 2.04, y: 1.44, z: 0}
+        persistance: 0.62
+        center: {x: 2.04, y: 1.44, z: 0.32}
         minValue: 0.8
       rigidNoiseSettings:
         strength: 1
@@ -69,7 +69,7 @@ MonoBehaviour:
         center: {x: 0, y: 0, z: 0}
         minValue: 0
       rigidNoiseSettings:
-        strength: 2.31
+        strength: 4.53
         numLayers: 4
         baseRoughness: 1.94
         roughness: 2.91
